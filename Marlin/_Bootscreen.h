@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "Artillery/Sidewinder X1/0.9 BMG - E3D V6"
+#define CONFIG_EXAMPLES_DIR "Artillery/Sidewinder X1/V1"
 
 /**
  * Made with Marlin Bitmap Converter
